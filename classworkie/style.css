@@ -1,0 +1,64 @@
+body {
+    background-image: url(wheat2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px 900px;
+    height: 1800px;
+}
+
+header {
+    /* width: 1535px; */
+    height: 130px;
+    background-color: #fff;
+    
+}
+
+.pint {
+    width: 18px;
+    height: 18px;
+    margin-left: 160px;
+    margin-top: 60px;
+}
+.insta {
+    width: 18px;
+    height: 18px;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-top: -45px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: small;
+}
+
+.button {
+   margin-left: 1300px;
+   margin-top: -70;
+   
+}
+
+h3 {
+    text-align: center;
+    margin-top: 90px;
+    color: #fff;
+}
+.warn {
+    font-size: 30px;
+    color: white;
+}
+
+p{
+    text-align: center;
+    color: #fff;
+}
+
+.all-buttons {
+    display: flex;
+    flex-direction: column;
+}
